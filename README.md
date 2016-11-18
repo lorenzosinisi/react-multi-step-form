@@ -13,6 +13,7 @@ npm install
 ### Run gulp
 
 ```bash
+npm install --global gulp-cli
 gulp
 ```
 
